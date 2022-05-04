@@ -30,14 +30,6 @@
   height: 32px;
 }
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
-
 .header__title {
   width: 730px;
   font-size: 102px;
@@ -115,8 +107,7 @@
   font-size: 18px;
   line-height: 1.2;
   color: #2f80ed;
-  width: 175px
-  
+  width: 175px;
 }
 
 .two-columns__paragraph {
@@ -378,6 +369,7 @@ text-align: justify;
 .footer_social-icon {
   width: 16px;
   height: 16px;
+  margin-right: 10px;
 }
 
 .footer_column-heading {
@@ -407,8 +399,4 @@ text-align: justify;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-}
-
-.footer_social-icon {
-  margin-right: 10px;
 }

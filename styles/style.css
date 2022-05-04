@@ -112,7 +112,7 @@
 }
 
 .two-columns__brief {
-  font-size: 18px;   
+  font-size: 18px;
   line-height: 1.2;
   color: #2f80ed;
   width: 175px
@@ -120,7 +120,7 @@
 }
 
 .two-columns__paragraph {
-width: 80%; 
+width: 80%;
 min-width: 784px;
 text-align: justify;
 }
@@ -134,7 +134,7 @@ text-align: justify;
 }
 
 .section-title {
-  font-size: 60px;   
+  font-size: 60px;
   line-height: 1.15;
   font-weight: 700;
   width: 60%;
@@ -147,7 +147,7 @@ text-align: justify;
   margin: 0;
   margin-top: 20px;
   text-align: center;
-  font-size: 24px;   
+  font-size: 24px;
   line-height: 34px;
   font-weight: normal;
   
@@ -181,20 +181,20 @@ text-align: justify;
   margin: 0;
   margin-top: 20px;
   margin-bottom: 20px;
-  font-size: 18px;   
+  font-size: 18px;
   line-height: 1.2;
   font-weight: normal;
 }
 
 .table__text_lonely {
-  font-size: 18px;   
+  font-size: 18px;
   line-height: 1.2;
   font-weight: normal;
 }
 
 .table__heading {
   margin: 0;
-  font-size: 24px;   
+  font-size: 24px;
   line-height: 1.15;
   font-weight: 700;
 
@@ -216,7 +216,7 @@ text-align: justify;
 .feynman__title {
   text-align: center;
   width: 648px;
-  font-size: 120px;   
+  font-size: 120px;
   line-height: 1.15;
   font-weight: 700;
   top: 0;
@@ -229,7 +229,7 @@ text-align: justify;
 .feynman__subtitle {
   text-align: center;
   width: 648px;
-  font-size: 36px;   
+  font-size: 36px;
   line-height: 51px;
   font-weight: normal;
   margin: 0;
@@ -249,7 +249,7 @@ text-align: justify;
   align-items: center;
   top: 50%;
   right: 0;
-  font-size: 36px;   
+  font-size: 36px;
   line-height: 51px;
   font-weight: normal;
   color: #2f80ed;
@@ -263,7 +263,7 @@ text-align: justify;
   align-items: center;
   position: relative;
   z-index: 1;
-  overflow: hidden; 
+  overflow: hidden;
   background-color: #000000;
 }
 
@@ -281,7 +281,7 @@ text-align: justify;
   margin-top: 90px;
   margin-bottom: 20px;
   width: 60%;
-  font-size: 60px;   
+  font-size: 60px;
   line-height: 1.15;
   font-weight: 700;
   color: white;
@@ -292,7 +292,7 @@ text-align: justify;
   z-index: 1;
   margin: 0;
   width: 60%;
-  font-size: 24px;   
+  font-size: 24px;
   line-height: 34px;
   font-weight: normal;
   color: white;
@@ -328,14 +328,14 @@ text-align: justify;
 .table__heading_theme_dark {
   margin: 0;
   margin-bottom: 20px;
-  font-size: 24px;   
+  font-size: 24px;
   line-height: 1.15;
   font-weight: 700;
 }
 
 .table__text_theme_dark {
   margin: 0;
-  font-size: 18px;   
+  font-size: 18px;
   line-height: 1.2;
   font-weight: normal;
 }
@@ -370,7 +370,7 @@ text-align: justify;
 .footer_author {
   margin-top: 18px;
   margin-bottom: 18px;
-  font-size: 18px;   
+  font-size: 18px;
   line-height: 25px;
   font-weight: normal;
 }
@@ -381,13 +381,13 @@ text-align: justify;
 }
 
 .footer_column-heading {
-  font-size: 18px;   
+  font-size: 18px;
   line-height: 30px;
   font-weight: 700;
 }
 
 .footer_column-links {
-  font-size: 18px;   
+  font-size: 18px;
   line-height: 30px;
   font-weight: normal;
   display: flex;
@@ -405,7 +405,7 @@ text-align: justify;
 
 .footer_column-link {
   line-height: 30px;
-  font-size: 18px;   
+  font-size: 18px;
   font-weight: normal;
 }
 
